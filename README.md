@@ -1,1 +1,1 @@
-index
+# Splash Page
