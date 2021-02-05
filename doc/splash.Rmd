@@ -1,0 +1,39 @@
+---
+title: "Ayda Yerhul!"
+image: "img/prof2.jpg"
+color1: "#C6A387"
+color2: "#BB7A62"
+angle: 110
+links:
+  - label: Instagram
+    url: "https://instagram.com/muttimachmal"
+  - label: Email
+    url: "mailto:ayda@contact.me"
+output:
+  postcards::onofre
+---
+
+```{css, echo = FALSE}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+```
+
+<div class="row">
+<div class="column">
+
+Helloing, ich bin Ayda!  
+**Blogger**.   
+</div>
+<div class="column">
+G'schichten über's #mamaleben & so.  
+Packt den *MUT* in Mutti. `r shiny::icon("rocket")`  
+Auch echt ohne blauem Haken.  
+</div>
+</div> 
+
