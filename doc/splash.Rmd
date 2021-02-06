@@ -25,15 +25,15 @@ output:
 ```
 
 
-## Helloing, ich bin Ayda!  
+**Helloing, ich bin Ayda!  **
 
 
 
 
 <div class="row">
 <div class="column">
-**Germany**  
-**Blogger**.   
+*Germany*  
+*Blogger*.   
 </div>
 <div class="column">
 G'schichten über's #mamaleben & so.  
